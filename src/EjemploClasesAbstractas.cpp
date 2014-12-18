@@ -21,7 +21,7 @@ void imprime_area(Poligono* pol)
 
 En el código se declara primero un objeto rectángulo y otro cuadrado
 y se llama a imprime_area() pasándole cada vez un objeto.
-Esto es porsible porque en OO una variable del tipo clase madre puede contener objetos del tipo
+Esto es posible porque en OO una variable del tipo clase madre puede contener objetos del tipo
 de las clases hijas.
 
 En la segunda parte del código se utiliza una clase que usa la clase Poligono de forma genérica.
